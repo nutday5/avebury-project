@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="Avebury" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Castle_Bastion</Name>
+        <File>dz\structures\specific\castles\castle_bastion.p3d</File>
+        <Date>10/20/23 09:47:25</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-547737151</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.712709</BBRadius>
+        <BBHScale>1.388531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.634501" Y="-5.103200" Z="-11.570099" />
+        <BoundingMax X="13.338301" Y="12.077001" Z="7.855319" />
+        <BoundingCenter X="-0.148100" Y="3.486900" Z="-1.857390" />
+        <Placement></Placement>
+    </Template>
+</Library>

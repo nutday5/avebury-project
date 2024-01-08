@@ -1,0 +1,29 @@
+[## Export settings ##]
+scaling enabled = False
+tiling enabled = False
+tile resolution = 4096
+real terrain size (m) = 2048
+
+[## Terrain Details ##]
+grid size = 2048 x 2048
+cell size (m) = 1.0
+terrain size (m) = 2048
+satmap size (px) = 2048 x 2048
+resolution (m/px) = 1.0
+
+[## Arma config entries ##]
+longitude = -1.8542014091798353
+latitude = -51.42100690583734
+mapsize = 2048
+mapzone = 30
+
+[## Surface entries ##]
+road = (193, 114, 170)  #c172aa
+concrete = (249, 44, 212)  #f92cd4
+water = (91, 137, 223)  #5b89df
+grass = (80, 148, 55)  #509437
+field = (128, 197, 46)  #80c52e
+forest = (0, 94, 26)  #005e1a
+dirt = (126, 62, 6)  #7e3e06
+sand = (203, 190, 0)  #cbbe00
+
