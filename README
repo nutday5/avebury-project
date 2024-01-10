@@ -1,1 +1,20 @@
 The avebury-project DayZ map
+
+Create a folder at P:/maps
+Copy this repository to P:/maps/ 
+Now you have P:/maps/avebury/
+
+The folders and the files there are required to be structured in a certain way
+Start Terrain Builder from DayZ Tools
+File > Open Project [P:/maps/avebury/source/TerrainBuilder/avebury.tv4p]
+You should see 5 raster layers, 2 object layers and many shapes files
+Ensure Window > Mapframe View is ticked
+Find the Mapframes properties box (NOT the menu item at top)
+Double click on avebury
+Go to Processing
+Click rebuild terrain
+Check 4 boxes to the right > Generate Layers
+OK, Save
+File > Export WRP [P:/maps/avebury/world/avebury.wrp]
+Save
+Now click Bulldozer

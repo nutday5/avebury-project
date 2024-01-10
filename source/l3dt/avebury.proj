@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="ProjectData">
+	<int name="FileVersion">1</int>
+	<varlist name="MapInfo">
+		<varlist name="Terrain">
+			<int name="nx">512</int>
+			<int name="ny">512</int>
+			<float name="MinAlt">146.81</float>
+			<float name="MaxAlt">194.42</float>
+			<float name="HorizScale">4</float>
+		</varlist>
+		<varlist name="Texture">
+			<int name="nx">512</int>
+			<int name="ny">512</int>
+		</varlist>
+		<bool name="WrapFlag">false</bool>
+	</varlist>
+	<varlist name="Maps">
+		<varlist name="HF">
+			<string name="Filename">avebury_HF.hfz</string>
+			<string name="MapType">HF</string>
+		</varlist>
+		<varlist name="WM">
+			<string name="Filename">avebury_WM.wmf</string>
+			<string name="MapType">WM</string>
+		</varlist>
+		<varlist name="AM">
+			<string name="Filename">AM\avebury_AM.mmf</string>
+			<string name="MapType">AM</string>
+		</varlist>
+		<varlist name="TN">
+			<string name="Filename">TN\avebury_TN.mmf</string>
+			<string name="MapType">TN</string>
+		</varlist>
+		<varlist name="TX">
+			<string name="Filename">TX\avebury_TX.mmf</string>
+			<string name="MapType">RGB</string>
+		</varlist>
+	</varlist>
+	<varlist name="Climates">
+		<varlist name="Temperate">
+			<string name="Filename">C:\Users\uknut\L3DT\Resources\Pro 22.06.0.1 x64\Climates\temperate26\Temperate26.cli.xml</string>
+		</varlist>
+	</varlist>
+</varlist>

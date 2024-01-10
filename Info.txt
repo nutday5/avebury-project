@@ -1,3 +1,4 @@
-Test
-T2
-T3
+These are the files for building a 2x2 DayZ test map.
+Do not publish your 2x2 to the workshop.
+Use it for your 'one of all' 
+Use it as a scratchpad while you learn
