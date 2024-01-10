@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="Settings">
+	<varlist name="MapViewOptions">
+		<varlist name="HF">
+			<string name="IndexedPalette">Monochrome</string>
+		</varlist>
+		<varlist name="WS">
+			<string name="IndexedPalette">Thermal</string>
+		</varlist>
+		<varlist name="SH">
+			<string name="IndexedPalette">InverseBoolean</string>
+		</varlist>
+	</varlist>
+	<varlist name="HF">
+		<float name="HorizScale">4</float>
+		<int name="nx">512</int>
+		<int name="ny">512</int>
+	</varlist>
+	<varlist name="WM">
+		<varlist name="FloodAll">
+			<bool name="ClearFlag">true</bool>
+			<bool name="WplaneFlag">true</bool>
+			<float name="WplaneLevel">0</float>
+			<int name="WplaneType">0</int>
+			<bool name="SeaFlag">false</bool>
+			<bool name="LakesFlag">false</bool>
+			<bool name="WtableFlag">true</bool>
+		</varlist>
+		<varlist name="Wtable">
+			<int name="nIter">2</int>
+			<bool name="ClearWtableBeforeCalc">false</bool>
+			<varlist name="Wtable">
+				<float name="MaxDepth">100</float>
+				<float name="RiseParam">0.8</float>
+				<float name="FallParam">0.96</float>
+				<float name="LossParam">5</float>
+				<float name="Tolerance">0.01</float>
+			</varlist>
+			<varlist name="Salin">
+				<bool name="EnableFlag">true</bool>
+				<float name="LossParam">5</float>
+				<float name="GradExpon">0.05</float>
+				<float name="LakeLoss">0</float>
+				<float name="Tolerance">0.0005</float>
+			</varlist>
+		</varlist>
+		<varlist name="WaterBodyList">		</varlist>
+	</varlist>
+	<varlist name="AM">
+		<string name="Climate">Temperate</string>
+		<int name="AM_in_HF">1</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+	</varlist>
+	<varlist name="TN">
+		<bool name="BumpMapping">false</bool>
+		<bool name="TangentFlag">false</bool>
+		<int name="TN_in_HF">1</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+	</varlist>
+	<varlist name="TX">
+		<bool name="UseLM">false</bool>
+		<bool name="UseTX">true</bool>
+		<bool name="UseStrata">true</bool>
+		<int name="TX_in_HF">1</int>
+		<bool name="MosaicFlag">true</bool>
+		<int name="MosaicSize">512</int>
+		<int name="MaxRadAA">2</int>
+	</varlist>
+	<varlist name="Ops">
+		<bool name="WaterTable">true</bool>
+		<bool name="FloodAll">true</bool>
+		<bool name="GenAM">true</bool>
+		<bool name="GenTN">true</bool>
+		<bool name="GenTX">true</bool>
+	</varlist>
+	<varlist name="CalcTimers">
+		<varlist name="WM">
+			<float name="FloodWtable">0.172</float>
+		</varlist>
+		<varlist name="AM">
+			<float name="GenMap">1.531</float>
+		</varlist>
+		<varlist name="TN">
+			<float name="GenMap">1.031</float>
+		</varlist>
+		<varlist name="TX">
+			<float name="GenMap">1.188</float>
+		</varlist>
+	</varlist>
+	<int name="SettingsVersion">2540</int>
+</varlist>

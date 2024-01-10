@@ -1,0 +1,13 @@
+L3DT Mosaic master file
+#MosaicName:	AM
+#MosaicType:	AM
+#FileExt:	amf.gz
+#nPxlsX:	512
+#nPxlsY:	512
+#nMapsX:	1
+#nMapsY:	1
+#SubMapSize:	512
+#HorizScale:	4.000000
+#WrapFlag:	FALSE
+#TileState:	0	OK
+#EOF
