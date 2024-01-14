@@ -1,7 +1,7 @@
 
 
 dtExportWRP
-P:\maps\avebury\world\avebury.wrp
+P:\maps\costock5\world\costock5.wrp
 dtImportObjects
 maps\avebury\source\terrainprocessor
 dtImportShapes
@@ -11,7 +11,7 @@ maps\avebury\source\qgis\gtt_export
 dtSatteliteNormalMapImport
 maps\avebury\source\qgis\gtt_export
 dtShapesExportSHP
-P:\maps\avebury\source\shapefiles\NewForest.shp
+P:\maps\avebury\source\shapefiles\StoneCircle.shp
 dtShapesToImageryExport
 P:\maps\avebury\source\shapefiles\Newforest.png
 dtTerrainExport

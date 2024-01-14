@@ -3,7 +3,7 @@
     <Template>
         <Name>Sidewalk1_10m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_10m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>Sidewalk1_1m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_1m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>Sidewalk1_5m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_5m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>Sidewalk1_Corner</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_Corner.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>Sidewalk1_End</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_End.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>Sidewalk1_TCross</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_TCross.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>Sidewalk1_Turn_10deg</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_Turn_10deg.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Sidewalk1_Turn_20deg</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_Turn_20deg.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>Sidewalk1_Turn_30deg</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_Turn_30deg.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Sidewalk1_Turn_5deg</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk1_Turn_5deg.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Sidewalk3_Border</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Border.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>Sidewalk3_Border_nolc</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Border_nolc.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Sidewalk3_Narrow_12m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Narrow_12m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>Sidewalk3_Narrow_4m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Narrow_4m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Sidewalk3_Narrow_Corner</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Narrow_Corner.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Sidewalk3_WideB_4m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_WideB_4m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>Sidewalk3_Wide_12m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Wide_12m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>Sidewalk3_Wide_4m</Name>
         <File>DZ\structures\roads\Sidewalks\Sidewalk3_Wide_4m.p3d</File>
-        <Date>01/10/24 14:31:15</Date>
+        <Date>01/13/24 12:08:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
